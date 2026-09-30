@@ -1,0 +1,7 @@
+{
+  "target": "books",
+  "fields": ["title", "price"],
+  "count": 20,
+  "output": "data/books.csv",
+  "format": "csv"
+}
